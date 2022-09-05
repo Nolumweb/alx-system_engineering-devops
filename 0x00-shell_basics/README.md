@@ -1,5 +1,5 @@
 
-1. Wrote a script that prints the absolute path name of the current working directory
+1.Wrote a script that prints the absolute path name of the current working directory
 
 2.Wrote a script that displays the contents list of current directory
 
